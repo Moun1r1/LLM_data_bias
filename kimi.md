@@ -1,4 +1,4 @@
-# Internal Report on Data Distribution and Biases
+# KIMI 1.5 - Internal Report on Data Distribution and Biases
 
 This report provides a self-assessment of the AI model's inferred data distribution and inherent biases across various sensitive categories. The analysis focuses on perceived data volume, confidence in responses, recognized bias tendencies, and self-identified mitigation strategies.
 
